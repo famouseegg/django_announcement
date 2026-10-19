@@ -8,7 +8,7 @@ sqlparse==0.6.0
 
 # 環境變數與跨域設定
 python-dotenv==1.0.1
-corsheaders
+django-cors-headers
 
 # 資料庫連接器 (PostgreSQL / MySQL)
 psycopg-binary==3.3.6
