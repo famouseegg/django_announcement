@@ -101,8 +101,8 @@ pyarrow==25.0.1
 pyarrow-hotfix==0.7
 PyAutoGUI==0.9.54
 pycparser==3.0
-pydantic==2.10.0
-pydantic_core==2.27.0
+pydantic==2.7.0
+pydantic_core==2.18.0
 pydeck==0.9.3
 pygame==2.6.1
 PyGetWindow==0.0.9
