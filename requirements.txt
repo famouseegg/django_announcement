@@ -11,7 +11,7 @@ python-dotenv==1.0.1
 django-cors-headers
 
 # 資料庫連接器 (PostgreSQL / MySQL)
-psycopg-binary==3.3.6
+psycopg2-binary>=2.9.9
 PyMySQL==1.2.3
 
 # AI / 資料處理核心套件 (Pydantic / Torch / HuggingFace 等)
